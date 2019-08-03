@@ -21,6 +21,8 @@ echo WARN:tomcat已停止，将进行持续更新准备工作。
 
 
 echo 2.开始拉取github代码
+d:
+cd %PRO_PATH%
 git pull origin master
 echo 3.开始编译打包代码
 call mvn clean compile package
