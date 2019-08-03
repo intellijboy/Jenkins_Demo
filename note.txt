@@ -1,0 +1,7 @@
+D:\home_tomcat\apache-tomcat-8.0.48-80\bin>startup.bat
+Using CATALINA_BASE:   "D:\home_tomcat\apache-tomcat-8.0.48-80"
+Using CATALINA_HOME:   "D:\home_tomcat\apache-tomcat-8.0.48-80"
+Using CATALINA_TMPDIR: "D:\home_tomcat\apache-tomcat-8.0.48-80\temp"
+Using JRE_HOME:        "D:\home_jdk\1.8x64\jdk1.8.0_40"
+Using CLASSPATH:       "D:\home_tomcat\apache-tomcat-8.0.48-80\bin\bootstrap.jar;D:\home_tomcat\apache-tomcat-8.0.48-80\bin\tomcat-juli.jar"
+D
